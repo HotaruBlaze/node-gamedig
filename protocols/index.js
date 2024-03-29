@@ -44,6 +44,7 @@ import starsiege from './starsiege.js'
 import teamspeak2 from './teamspeak2.js'
 import teamspeak3 from './teamspeak3.js'
 import terraria from './terraria.js'
+import tes3mp from './tes3mp.js'
 import tribes1 from './tribes1.js'
 import tribes1master from './tribes1master.js'
 import unreal2 from './unreal2.js'
@@ -58,9 +59,9 @@ import dayz from './dayz.js'
 import theisleevrima from './theisleevrima.js'
 
 export {
-  armagetron, ase, asa, assettocorsa, battlefield, buildandshoot, cs2d, discord, doom3, eco, epic, factorio, farmingsimulator, ffow, 
+  armagetron, ase, asa, assettocorsa, battlefield, buildandshoot, cs2d, discord, doom3, eco, epic, factorio, farmingsimulator, ffow,
   fivem, gamespy1, gamespy2, gamespy3, geneshift, goldsrc, gtasao, hexen2, jc2mp, kspdmp, mafia2mp, mafia2online, minecraft,
   minecraftbedrock, minecraftvanilla, mumble, mumbleping, nadeo, openttd, palworld, quake1, quake2, quake3, rfactor, samp,
-  savage2, starmade, starsiege, teamspeak2, teamspeak3, terraria, tribes1, tribes1master, unreal2, ut3, valve,
+  savage2, starmade, starsiege, teamspeak2, teamspeak3, terraria, tes3mp, tribes1, tribes1master, unreal2, ut3, valve,
   vcmp, ventrilo, warsow, eldewrito, beammpmaster, beammp, dayz, theisleevrima
 }

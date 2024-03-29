@@ -288,6 +288,7 @@
 | teamspeak3           | Teamspeak 3                                      | [Notes](#teamspeak3)                            |
 | terminus             | Terminus                                         |                                                 |
 | terrariatshock       | Terraria - TShock                                | [Notes](#terraria)                              |
+| tes3mp               | tes3mp                                           | [Notes](#TES3MP)                                |
 | tfc                  | Team Fortress Classic                            | [Valve Protocol](#valve)                        |
 | theforest            | The Forest                                       | [Valve Protocol](#valve)                        |
 | theforrest           | The Forrest                                      | [Valve Protocol](#valve)                        |
@@ -430,6 +431,9 @@ you can specify their host query port using the teamspeakQueryPort option.
 ### Terraria
 Requires tshock server mod, and a REST user token, which can be passed to GameDig with the
 additional option: `token`
+
+### TES3MP
+Statistics such as ping, player names, and gamerules are not supported via querying the Master Server.
 
 ### Valheim
 Valheim servers will only respond to queries if they are started in public mode (`-public 1`).
